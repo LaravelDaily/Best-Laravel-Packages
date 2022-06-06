@@ -84,6 +84,7 @@ This list was being prepared for an article that I [decided not to publish](http
 
 ## Multi-Language
 
+- [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Adds the missing localization features to Laravel: language selection in the URL and from headers, translatable routes and many other small features that are commonly needed in multilanguage sites.
 - [spatie/laravel-translatable](https://github.com/spatie/laravel-translatable) - This package contains a trait to make Eloquent models translatable. Translations are stored as json. There is no extra table needed to hold them.
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - If you want to store translations of your models into the database, this package is for you.
 
