@@ -78,7 +78,6 @@ This list was being prepared for an article that I [decided not to publish](http
 - [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder) - Allows you to filter, sort and include eloquent relations based on a request. 
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
 - [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
-- [spatie/laravel-sluggable](https://github.com/spatie/laravel-sluggable) - Generate slugs when saving Eloquent models
 
 - - - - -
 
