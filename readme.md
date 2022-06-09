@@ -1,4 +1,4 @@
-# 41 Best Laravel Packages (incomplete list)
+# 75 Best Laravel Packages (incomplete list)
 
 This list was being prepared for an article that I [decided not to publish](https://twitter.com/PovilasKorop/status/1533452909157003264), but maybe someone would still find something useful from this incomplete list.
 
@@ -28,6 +28,10 @@ This list was being prepared for an article that I [decided not to publish](http
 - [Laravel Actions](https://laravelactions.com/) - Classes that take care of one specific task. This package introduces a new way of organising the logic of your Laravel applications by focusing on the actions your application provide.
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - package to manage your large Laravel app using modules. Module is like a Laravel package, it has some views, controllers or models.
 - [archtechx/tenancy](https://tenancyforlaravel.com/) - A flexible multi-tenancy package for Laravel. Single & multi-database tenancy, automatic & manual mode, event-based architecture.
+- [laravel-fractal](https://github.com/spatie/laravel-fractal) - An easy to use Fractal wrapper built for Laravel and Lumen applications
+- [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy) - Make your Laravel app usable by multiple tenants
+- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) - The easiest way to get started with event sourcing in Laravel
+- [spatie/laravel-route-attributes](https://github.com/spatie/laravel-route-attributes) - Use PHP 8 attributes to register routes in a Laravel app
 
 - - - - -
 
@@ -55,6 +59,7 @@ This list was being prepared for an article that I [decided not to publish](http
 - [blade-ui-kit/blade-icons](https://github.com/blade-ui-kit/blade-icons): A package to easily make use of SVG icons in your Laravel Blade views
 - [wireui/wireui](https://github.com/wireui/wireui) - library of components and resources to empower your Laravel and Livewire application development.
 - [Wire Elements](https://wire-elements.dev/) - beautiful components crafted with Livewire
+- [spatie/laravel-html](https://github.com/spatie/laravel-html) - Painless html generation
 
 - - - - -
 
@@ -64,6 +69,12 @@ This list was being prepared for an article that I [decided not to publish](http
 - [Laravel Telescope](https://laravel.com/docs/9.x/telescope) - Telescope provides insight into the requests coming into your application, exceptions, log entries, database queries, queued jobs, mail, notifications, cache operations, scheduled tasks, variable dumps, and more.
 - [spatie/laravel-backup](https://github.com/spatie/laravel-backup) - This Laravel package creates a backup of your application. The backup is a zip file that contains all files in the directories you specify along with a dump of your database.
 - [spatie/laravel-responsecache](https://github.com/spatie/laravel-responsecache) - Speed up an app by caching the entire response
+- [spatie/laravel-mail-preview](https://github.com/spatie/laravel-mail-preview) - A mail driver to quickly preview mail
+- [spatie/laravel-db-snapshots](https://github.com/spatie/laravel-db-snapshots) - Quickly dump and load databases
+- [spatie/laravel-uptime-monitor](https://github.com/spatie/laravel-uptime-monitor) - A powerful and easy to configure uptime and ssl monitor
+- [spatie/laravel-failed-job-monitor](https://github.com/spatie/laravel-failed-job-monitor) - Get notified when a queued job fails
+- [spatie/laravel-server-monitor](https://github.com/spatie/laravel-server-monitor) - This package keeps an eye on the health of all your servers.
+- [spatie/laravel-schedule-monitor](https://github.com/spatie/laravel-schedule-monitor) - Monitor scheduled tasks in a Laravel app
 
 - - - - -
 
@@ -77,6 +88,11 @@ This list was being prepared for an article that I [decided not to publish](http
 - [staudenmeir/eloquent-has-many-deep](https://github.com/staudenmeir/eloquent-has-many-deep) - This extended version of HasManyThrough allows relationships with unlimited intermediate models. Also check out more similar packages by [staudenmeir](https://github.com/staudenmeir).
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
 - [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
+- [spatie/laravel-searchable](https://github.com/spatie/laravel-searchable) - Pragmatically search through models and other sources
+- [spatie/laravel-view-models](https://github.com/spatie/laravel-view-models) - View models in Laravel
+- [spatie/laravel-model-states](https://github.com/spatie/laravel-model-states) - State support for models
+- [spatie/laravel-schemaless-attributes](https://github.com/spatie/laravel-schemaless-attributes) - Add schemaless attributes to Eloquent models
+- [spatie/laravel-model-status](https://github.com/spatie/laravel-model-status) - Easily add statuses to your models
 
 - - - - -
 
@@ -85,6 +101,7 @@ This list was being prepared for an article that I [decided not to publish](http
 - [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Adds the missing localization features to Laravel: language selection in the URL and from headers, translatable routes and many other small features that are commonly needed in multilanguage sites.
 - [spatie/laravel-translatable](https://github.com/spatie/laravel-translatable) - This package contains a trait to make Eloquent models translatable. Translations are stored as json. There is no extra table needed to hold them.
 - [Astrotomic/laravel-translatable](https://github.com/Astrotomic/laravel-translatable) - If you want to store translations of your models into the database, this package is for you.
+- [spatie/laravel-translation-loader](https://github.com/spatie/laravel-translation-loader) - Store your translations in the database or other sources
 
 - - - - -
 
@@ -98,3 +115,20 @@ This list was being prepared for an article that I [decided not to publish](http
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Generate a sitemap without you having to add urls to it manually, by crawling your entire site.
 - [spatie/period](https://github.com/spatie/period) - Compare multiple dates with each other, calculate the overlaps and differences between n-amount of periods, as well as some more basic comparisons between two periods.
 - [spatie/laravel-tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour to a Laravel app
+- [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) - A Laravel package to retrieve pageviews and other data from Google Analytics
+- [spatie/laravel-responsecache](https://github.com/spatie/laravel-responsecache) - Speed up a Laravel app by caching the entire response
+- [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) - Manage newsletters in Laravel
+- [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
+- [spatie/laravel-honeypot](https://github.com/spatie/laravel-honeypot) - Preventing spam submitted through forms
+- [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar) - Manage events on a Google Calendar
+- [spatie/laravel-mix-purgecss](https://github.com/spatie/laravel-mix-purgecss) - Zero-config Purgecss for Laravel Mix
+- [spatie/laravel-web-tinker](https://github.com/spatie/laravel-web-tinker) - Tinker in your browser
+- [spatie/laravel-menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
+- [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
+- [spatie/laravel-settings](https://github.com/spatie/laravel-settings) - Store strongly typed application settings
+- [spatie/laravel-tail](https://github.com/spatie/laravel-tail) - An artisan command to tail your application logs
+- [spatie/laravel-webhook-server](https://github.com/spatie/laravel-webhook-server) - Send webhooks from Laravel apps
+- [spatie/laravel-server-side-rendering](https://github.com/spatie/laravel-server-side-rendering) - Server side rendering JavaScript in your Laravel application
+- [spatie/laravel-webhook-client](https://github.com/spatie/laravel-webhook-client) - Receive webhooks in Laravel apps
+- [spatie/laravel-validation-rules](https://github.com/spatie/laravel-validation-rules) - A set of useful Laravel validation rules
+- [spatie/laravel-blade-javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
