@@ -28,10 +28,7 @@ This list was being prepared for an article that I [decided not to publish](http
 - [Laravel Actions](https://laravelactions.com/) - Classes that take care of one specific task. This package introduces a new way of organising the logic of your Laravel applications by focusing on the actions your application provide.
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - package to manage your large Laravel app using modules. Module is like a Laravel package, it has some views, controllers or models.
 - [archtechx/tenancy](https://tenancyforlaravel.com/) - A flexible multi-tenancy package for Laravel. Single & multi-database tenancy, automatic & manual mode, event-based architecture.
-- [laravel-fractal](https://github.com/spatie/laravel-fractal) - An easy to use Fractal wrapper built for Laravel and Lumen applications
 - [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy) - Make your Laravel app usable by multiple tenants
-- [spatie/laravel-event-sourcing](https://github.com/spatie/laravel-event-sourcing) - The easiest way to get started with event sourcing in Laravel
-- [spatie/laravel-route-attributes](https://github.com/spatie/laravel-route-attributes) - Use PHP 8 attributes to register routes in a Laravel app
 
 - - - - -
 
@@ -89,7 +86,6 @@ This list was being prepared for an article that I [decided not to publish](http
 - [spatie/laravel-collection-macros](https://github.com/spatie/laravel-collection-macros) - A set of useful Laravel collection macros
 - [spatie/eloquent-sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
 - [spatie/laravel-searchable](https://github.com/spatie/laravel-searchable) - Pragmatically search through models and other sources
-- [spatie/laravel-view-models](https://github.com/spatie/laravel-view-models) - View models in Laravel
 - [spatie/laravel-model-states](https://github.com/spatie/laravel-model-states) - State support for models
 - [spatie/laravel-schemaless-attributes](https://github.com/spatie/laravel-schemaless-attributes) - Add schemaless attributes to Eloquent models
 - [spatie/laravel-model-status](https://github.com/spatie/laravel-model-status) - Easily add statuses to your models
@@ -117,7 +113,6 @@ This list was being prepared for an article that I [decided not to publish](http
 - [spatie/laravel-tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour to a Laravel app
 - [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) - A Laravel package to retrieve pageviews and other data from Google Analytics
 - [spatie/laravel-responsecache](https://github.com/spatie/laravel-responsecache) - Speed up a Laravel app by caching the entire response
-- [spatie/laravel-newsletter](https://github.com/spatie/laravel-newsletter) - Manage newsletters in Laravel
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
 - [spatie/laravel-honeypot](https://github.com/spatie/laravel-honeypot) - Preventing spam submitted through forms
 - [spatie/laravel-google-calendar](https://github.com/spatie/laravel-google-calendar) - Manage events on a Google Calendar
