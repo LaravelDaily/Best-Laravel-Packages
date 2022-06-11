@@ -1,7 +1,4 @@
-# 75 Best Laravel Packages (incomplete list)
-
-This list was being prepared for an article that I [decided not to publish](https://twitter.com/PovilasKorop/status/1533452909157003264), but maybe someone would still find something useful from this incomplete list.
-
+# 75 Best Laravel Packages
 
 **Notices:**
 
