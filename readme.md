@@ -54,6 +54,7 @@
 - [wireui/wireui](https://github.com/wireui/wireui) - library of components and resources to empower your Laravel and Livewire application development.
 - [Wire Elements](https://wire-elements.dev/) - beautiful components crafted with Livewire
 - [spatie/laravel-html](https://github.com/spatie/laravel-html) - Painless html generation
+- [protonemedia/laravel-form-components](https://github.com/protonemedia/laravel-form-components) - Blade components to build forms with Tailwind CSS/Bootstrap
 
 - - - - -
 
