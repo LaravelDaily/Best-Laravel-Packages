@@ -32,6 +32,7 @@
 ## Admin Panels and Code Generators
 
 - [Filament Admin](https://filamentphp.com/) - Filament is a collection of tools for rapidly building beautiful TALL stack apps, designed for humans.
+- [InfyOmLabs/laravel-generator](https://github.com/InfyOmLabs/laravel-generator) - Generate APIs, UI Scaffolds, Tests, CRUDs in Laravel.
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) - Tool for rapidly generating multiple Laravel components from a single, human readable definition.
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel
 
