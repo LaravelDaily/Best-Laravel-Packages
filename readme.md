@@ -1,5 +1,9 @@
 # 75 Best Laravel Packages
 
+**Update Nov 2022**: the bigger and updated list of packages is now on our website: [laraveldaily.com/packages](https://laraveldaily.com/packages)
+
+- - - - - 
+
 **Notices:**
 
 - Only free open-source packages
