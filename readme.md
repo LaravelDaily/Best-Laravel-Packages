@@ -81,6 +81,7 @@
 ## Database & Eloquent
 
 - [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder) - Filter, sort and include eloquent relations based on a request.
+- [mehdi-fathi/eloquent-filter](https://github.com/mehdi-fathi/eloquent-filter) - Adds custom filters automatically to your Eloquent Models in Laravel.
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent's missing "array" driver. Sometimes you want to use Eloquent, but without dealing with a database.
 - [calebporzio/parental](https://github.com/calebporzio/parental) - Brings STI (Single Table Inheritance) capabilities to Eloquent.
 - [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable) - Easy creation of slugs for your Eloquent models in Laravel.
